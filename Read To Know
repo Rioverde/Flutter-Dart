@@ -1,0 +1,16 @@
+1. After you set asset folder in your project with editing in yaml
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/
+dont forget to press F1 and get packages to configure
+
+2. To set Icon to your Application
+go to appicon.co and drag the icon isnide. So you will download zip with every single Cion for any device. Then move this assets inside the project
+Android/src/main/res .. Here locatred all your Preview Icon files. Then Open folder and change all the mipmap folders with the one you downloaded in ZIP format.
+Follow Section 29. to make same for IOS
+
+3. Watch 31 to put your app into Physical Device
+
+
